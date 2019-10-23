@@ -1,1 +1,4 @@
 Este es un proyecto que sera desarrollado para la plataforma Android
+---------------------------
+esta es para la segunda rama 
+creada no c cuando
